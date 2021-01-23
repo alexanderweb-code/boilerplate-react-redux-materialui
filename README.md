@@ -76,4 +76,3 @@ Git hooks integrated via [husky](https://github.com/typicode/husky). Currently c
 
 - [Some thoughts on testing React/Redux Applications](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.3r96ole61)
 
--
